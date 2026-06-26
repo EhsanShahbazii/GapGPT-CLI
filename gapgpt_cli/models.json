@@ -1,0 +1,699 @@
+[
+  {
+    "label": "Ie.AGAPName",
+    "value": "A-GAP",
+    "caption": "GPT 5.5 with internet and image generation from OpenAI",
+    "categories": ["popular", "openai"]
+  },
+  {
+    "label": "Ie.AGAP4Name",
+    "value": "A-GAP-4.1",
+    "caption": "GPT-4.1 with internet and image generation from OpenAI",
+    "categories": ["popular", "openai"]
+  },
+  {
+    "label": "Gamma",
+    "value": "A-GAMMA",
+    "caption": "Professional presentation, slides, PPT & PDF export",
+    "supportsImage": false,
+    "badgeLabel": "(آزمایشی)",
+    "categories": ["popular", "creative", "presentation"],
+    "pro": true
+  },
+  {
+    "label": "Claude 4 Sonnet",
+    "value": "A-SONNET-4",
+    "caption": "The most advanced Sonnet model from Anthropic",
+    "categories": ["popular", "anthropic"]
+  },
+  {
+    "label": "Claude 4.6 Sonnet",
+    "value": "A-SONNET-4.6",
+    "caption": "The newest Sonnet 4.6 model from Anthropic",
+    "categories": ["popular", "anthropic"]
+  },
+  {
+    "label": "Claude 4.5 Sonnet",
+    "value": "A-SONNET-4.5",
+    "caption": "Faster, more accurate Sonnet model from Anthropic",
+    "categories": ["popular", "anthropic"]
+  },
+  {
+    "label": "Claude 4 Opus",
+    "value": "A-OPUS-4",
+    "caption": "Opus 4 model from Anthropic",
+    "categories": ["popular", "anthropic"],
+    "pro": true
+  },
+  {
+    "label": "Claude 4.1 Opus",
+    "value": "A-OPUS-4.1",
+    "caption": "The newest Claude 4.1 Opus model from Anthropic",
+    "categories": ["anthropic"],
+    "pro": true
+  },
+  {
+    "label": "Claude 4.8 Opus",
+    "value": "A-OPUS-4.5",
+    "caption": "The newest Claude 4.8 Opus model from Anthropic",
+    "categories": ["anthropic"],
+    "pro": true
+  },
+  {
+    "label": "Claude Fable 5",
+    "value": "A-FABLE-5",
+    "caption": "This model redirects to Claude Opus 4.8",
+    "categories": [],
+    "pro": true
+  },
+  {
+    "label": "DeepSeek V4 Flash",
+    "value": "A-DEEPSEEK-FLASH",
+    "caption": "Fast DeepSeek V4 model for everyday and accurate responses",
+    "supportsImage": false,
+    "categories": ["popular", "deepseek"]
+  },
+  {
+    "label": "DeepSeek V4 Pro",
+    "value": "A-DEEPSEEK-PRO",
+    "caption": "Powerful DeepSeek V4 version for advanced analysis and coding",
+    "supportsImage": false,
+    "categories": ["deepseek"]
+  },
+  {
+    "label": "DeepSeek V3",
+    "value": "A-DEEPSEEK-V3",
+    "caption": "Old version of DeepSeek V3",
+    "supportsImage": false,
+    "categories": []
+  },
+  {
+    "label": "DeepSeek V3",
+    "value": "A-GAP-DEEPSEEK-V3",
+    "caption": "Old version of DeepSeek V3",
+    "supportsImage": false,
+    "categories": []
+  },
+  {
+    "label": "Grok 4",
+    "value": "A-GROK-4",
+    "caption": "The newest model from XAI",
+    "categories": ["popular", "xai"]
+  },
+  {
+    "label": "Grok 4.1 Fast",
+    "value": "A-GROK-4-FAST",
+    "caption": "The most powerful lightweight version of the Grok series",
+    "reasoningModel": true,
+    "categories": ["xai", "reasoning"]
+  },
+  {
+    "label": "Grok 3",
+    "value": "A-GROK-3",
+    "caption": "Grok 3 model from XAI",
+    "categories": ["xai"]
+  },
+  {
+    "label": "Qwen 3",
+    "value": "A-QWEN-3",
+    "caption": "Qwen3 235B model from Alibaba Company",
+    "categories": ["popular", "alibaba", "other"]
+  },
+  {
+    "label": "Qwen 3 Max",
+    "value": "A-QWEN-3-MAX",
+    "caption": "Qwen3 Max model from Alibaba Company",
+    "categories": ["alibaba", "other"]
+  },
+  {
+    "label": "Kimi 2.5",
+    "value": "A-KIMI-K2",
+    "caption": "Kimi 2.5 model from Moonshot AI Company",
+    "categories": ["other"]
+  },
+  {
+    "label": "Minimax M2",
+    "value": "A-MINIMAX-M2",
+    "caption": "Minimax M2 model from Minimax Company",
+    "categories": ["other"]
+  },
+  {
+    "label": "GLM 5",
+    "value": "A-GLM-4.6",
+    "caption": "GLM 5 model from Z.ai Company",
+    "categories": ["other"]
+  },
+  {
+    "label": "Perplexity",
+    "value": "A-PERPLEXITY",
+    "caption": "Perplexity model with internet search capability",
+    "categories": ["other"]
+  },
+  {
+    "label": "Qwen 3 Coder",
+    "value": "A-QWEN-3-CODER",
+    "caption": "Qwen3 Coder 480B model from Alibaba Company",
+    "categories": ["popular", "alibaba", "other", "coding"]
+  },
+  {
+    "label": "QwQ 32B",
+    "value": "A-QWQ-32B",
+    "caption": "QwQ 32B reasoning model from Alibaba Company",
+    "supportsImage": false,
+    "reasoningModel": true,
+    "categories": ["alibaba", "reasoning", "other"]
+  },
+  {
+    "label": "o4-mini",
+    "value": "A-O4-MINI",
+    "caption": "OpenAI's strongest model for inference and coding",
+    "supportsImage": true,
+    "reasoningModel": true,
+    "categories": ["popular", "openai", "reasoning"]
+  },
+  {
+    "label": "o4-mini-high",
+    "value": "A-O4-MINI-HIGH",
+    "caption": "o4-mini with more inference and higher accuracy",
+    "supportsImage": true,
+    "reasoningModel": true,
+    "categories": ["openai", "reasoning"]
+  },
+  {
+    "label": "o3",
+    "value": "A-O3",
+    "caption": "The newest model from the o3 series from OpenAI",
+    "supportsImage": true,
+    "reasoningModel": true,
+    "categories": ["popular", "openai", "reasoning"],
+    "pro": true
+  },
+  {
+    "label": "o3 pro",
+    "value": "A-O3-PRO",
+    "caption": "o3 pro model with advanced reasoning from OpenAI",
+    "supportsImage": true,
+    "reasoningModel": true,
+    "categories": ["popular", "openai", "reasoning"],
+    "pro": true
+  },
+  {
+    "label": "Claude 3.7 Sonnet",
+    "value": "A-SONNET3.7",
+    "caption": "Sonnet 3.7 model from Anthropic",
+    "categories": ["anthropic"]
+  },
+  {
+    "label": "GPT-5.5",
+    "value": "A-GPT-5.5",
+    "caption": "The newest GPT model from OpenAI",
+    "categories": ["openai", "popular"],
+    "pro": true
+  },
+  {
+    "label": "GPT-5.4",
+    "value": "A-GPT-5.2",
+    "caption": "Powerful GPT-5.4 model from OpenAI",
+    "categories": ["openai", "popular"]
+  },
+  {
+    "label": "GPT-5.4 Pro",
+    "value": "A-GPT-5.2-PRO",
+    "caption": "Advanced GPT-5.4 version for professional users from OpenAI",
+    "categories": ["openai", "popular"],
+    "pro": true
+  },
+  {
+    "label": "GPT-5.1",
+    "value": "A-GPT-5",
+    "caption": "GPT-5.1 model from OpenAI",
+    "categories": ["openai"]
+  },
+  {
+    "label": "GPT-5 Pro",
+    "value": "A-GPT-5-PRO",
+    "caption": "Advanced GPT-5 version for professional users from OpenAI",
+    "categories": ["openai", "popular"],
+    "pro": true
+  },
+  {
+    "label": "GPT-5.3 Codex",
+    "value": "A-GPT-5-CODEX",
+    "caption": "Specialized GPT-5 version for programming and debugging code",
+    "categories": ["openai", "coding"],
+    "pro": false
+  },
+  {
+    "label": "GPT-5.4 mini",
+    "value": "A-GPT-5-MINI",
+    "caption": "GPT-5.4 mini model from OpenAI",
+    "categories": ["openai"]
+  },
+  {
+    "label": "GPT-5.4 nano",
+    "value": "A-GPT-5-NANO",
+    "caption": "GPT-5.4 nano model from OpenAI",
+    "categories": ["openai"]
+  },
+  {
+    "label": "GPT-4.1",
+    "value": "A-GPT-4.1",
+    "caption": "GPT-4.1 model from OpenAI",
+    "categories": ["openai"]
+  },
+  {
+    "label": "GPT-4.1 mini",
+    "value": "A-GPT-4.1-MINI",
+    "caption": "GPT-4.1 mini model from OpenAI",
+    "categories": ["openai"]
+  },
+  {
+    "label": "GPT-4.1 nano",
+    "value": "A-GPT-4.1-NANO",
+    "caption": "GPT-4.1 nano model from OpenAI",
+    "categories": ["openai"]
+  },
+  {
+    "label": "DeepSeek R1",
+    "value": "A-DEEPSEEK-R1",
+    "caption": "The newest model from DeepSeek suitable for inference",
+    "supportsImage": false,
+    "reasoningModel": true,
+    "categories": ["deepseek", "reasoning"]
+  },
+  {
+    "label": "Gemini Flash 2.0 Thinking",
+    "value": "A-GEMINI-2.0-FLASH-THINKING",
+    "caption": "Experimental reasoning model from Google",
+    "reasoningModel": true,
+    "categories": ["google", "reasoning"]
+  },
+  {
+    "label": "Claude 3.7 Sonnet Thinking",
+    "value": "A-SONNET3.7-THINKING",
+    "caption": "Reasoning Sonnet 3.7 model from Anthropic",
+    "reasoningModel": true,
+    "categories": ["anthropic", "reasoning"],
+    "pro": true
+  },
+  {
+    "label": "Claude 4.5 Haiku",
+    "value": "A-HAIKU-4.5",
+    "caption": "Haiku 4.5 model from Anthropic",
+    "categories": ["popular", "anthropic"]
+  },
+  {
+    "label": "Claude 3.5 Haiku",
+    "value": "A-HAIKU3.5",
+    "caption": "The most up-to-date lightweight model from Anthropic",
+    "supportsImage": false,
+    "categories": ["anthropic"]
+  },
+  {
+    "label": "Flux Pro Kontext",
+    "value": "A-FLUX-PRO-KONTEXT",
+    "caption": "Image editing and high-detail generation from BlackForest Labs",
+    "inputOffsetSize": 150,
+    "imageModel": true,
+    "categories": ["image"],
+    "pro": true
+  },
+  {
+    "label": "Flux 2",
+    "value": "A-FLUX-2",
+    "caption": "The newest Flux model",
+    "inputOffsetSize": 150,
+    "imageModel": true,
+    "categories": ["image"]
+  },
+  {
+    "label": "Imagen 4",
+    "value": "A-IMAGEN4",
+    "caption": "Google's most advanced image generation model",
+    "inputOffsetSize": 150,
+    "imageModel": true,
+    "categories": ["image", "google"],
+    "pro": true
+  },
+  {
+    "label": "Midjourney",
+    "value": "A-MIDJ",
+    "caption": "Creative image generation",
+    "inputOffsetSize": 190,
+    "imageModel": true,
+    "categories": ["image"],
+    "pro": true
+  },
+  {
+    "label": "GPT Image 2",
+    "value": "A-GPT-IMAGE-2",
+    "caption": "New OpenAI image model supporting Persian text",
+    "inputOffsetSize": 190,
+    "imageModel": true,
+    "categories": ["openai", "image"],
+    "pro": true
+  },
+  {
+    "label": "GPT Image 1.5",
+    "value": "A-GPT-IMAGE-1.5",
+    "caption": "Advanced GPT Image with higher quality and accuracy",
+    "inputOffsetSize": 190,
+    "imageModel": true,
+    "categories": ["openai", "image"]
+  },
+  {
+    "label": "GPT Image 1",
+    "value": "A-GPT-IMAGE-1",
+    "caption": "Accurate and high quality image generation from OpenAI",
+    "inputOffsetSize": 190,
+    "imageModel": true,
+    "categories": ["openai", "image"]
+  },
+  {
+    "label": "Nano Banana 2",
+    "value": "A-GEMINI-2.5-FLASH-IMAGE",
+    "caption": "High quality image generation with Gemini 3.1 Flash",
+    "inputOffsetSize": 190,
+    "imageModel": true,
+    "categories": ["google", "image"]
+  },
+  {
+    "label": "Nano Banana Pro",
+    "value": "A-GEMINI-3-PRO-IMAGE",
+    "caption": "Gemini 3 Pro Image model with Persian text support from Google",
+    "inputOffsetSize": 190,
+    "imageModel": true,
+    "categories": ["google", "image"],
+    "pro": true
+  },
+  {
+    "label": "GPT-4o Mini",
+    "value": "A-GPT4O-MINI",
+    "caption": "Fast GPT-4o mini model from OpenAI",
+    "categories": ["openai"]
+  },
+  {
+    "label": "DALLE-3",
+    "value": "A-DALLE3",
+    "caption": "Image generation model from OpenAI",
+    "inputOffsetSize": 150,
+    "imageModel": true,
+    "categories": ["openai", "image"],
+    "pro": true
+  },
+  {
+    "label": "Gemini 2.5 Flash",
+    "value": "A-GEMINI-2.5-FLASH",
+    "caption": "Lightweight Gemini version 2.5 model from Google",
+    "categories": ["google"]
+  },
+  {
+    "label": "Gemini 2.0 flash",
+    "value": "A-GEMINI-2.0-FLASH",
+    "caption": "Lightweight Gemini series 2 model from Google",
+    "categories": ["google"]
+  },
+  {
+    "label": "Gemini 2.0 flash lite",
+    "value": "A-GEMINI-2.0-FLASH-LITE",
+    "caption": "The newest Lite model of the Gemini series from Google",
+    "categories": ["google"]
+  },
+  {
+    "label": "Gemini 2.0 pro",
+    "value": "A-GEMINI-2.0-PRO",
+    "caption": "Old Gemini 2.0 Pro model from Google",
+    "categories": ["google"]
+  },
+  {
+    "label": "Gemini 3.1 Pro",
+    "value": "A-GEMINI-3-PRO",
+    "caption": "The newest Pro model from Google",
+    "reasoningModel": true,
+    "categories": ["google", "reasoning"]
+  },
+  {
+    "label": "Gemini 3 Flash",
+    "value": "A-GEMINI-3-FLASH",
+    "caption": "The newest lightweight model from Google",
+    "reasoningModel": true,
+    "categories": ["google", "reasoning"]
+  },
+  {
+    "label": "Gemini 3.5 Flash",
+    "value": "A-GEMINI-3.5-FLASH",
+    "caption": "Newest lightweight Gemini model for Pro/Pro Max users",
+    "reasoningModel": true,
+    "categories": ["google", "reasoning"],
+    "pro": true
+  },
+  {
+    "label": "Gemini 2.5 pro",
+    "value": "A-GEMINI-2.5-PRO",
+    "caption": "Gemini Pro version 2.5 model from Google",
+    "reasoningModel": true,
+    "categories": ["google", "reasoning"]
+  },
+  {
+    "label": "Grok 3 Thinking",
+    "value": "A-GROK-3-THINKING",
+    "caption": "The newest reasoning model from XAI",
+    "reasoningModel": true,
+    "categories": ["xai", "reasoning"],
+    "pro": true
+  },
+  {
+    "label": "Claude Opus",
+    "value": "A-OPUS",
+    "caption": "Opus model from Anthropic",
+    "categories": []
+  },
+  {
+    "label": "Ie.FREEGAPName",
+    "value": "A-FREEGPT",
+    "caption": "Free access to GPT-5.4 and GPT-5.4-mini from OpenAI",
+    "categories": ["popular", "openai"]
+  },
+  {
+    "label": "GPT Builder",
+    "value": "A-BGPT",
+    "caption": "GPT Builder assistant",
+    "categories": ["openai"]
+  },
+  {
+    "label": "Z-Image Turbo",
+    "value": "A-Z-IMAGE-TURBO",
+    "caption": "Fast Z-Image image generation model",
+    "inputOffsetSize": 150,
+    "imageModel": true,
+    "categories": ["image"]
+  },
+  {
+    "label": "Flux Schnell",
+    "value": "A-FLUX1-SCHNELL",
+    "caption": "Faster version of Flux from BlackForest Labs",
+    "inputOffsetSize": 150,
+    "imageModel": true,
+    "categories": ["image"]
+  },
+  {
+    "label": "StableDiffusion XL",
+    "value": "A-SDXL",
+    "caption": "Lightweight and free SDXL model from Stability.ai",
+    "inputOffsetSize": 150,
+    "imageModel": true,
+    "categories": ["image"]
+  },
+  {
+    "label": "o1-mini",
+    "value": "A-O1-MINI",
+    "caption": "The first version of lightweight reasoning models from OpenAI",
+    "supportsImage": false,
+    "reasoningModel": true,
+    "categories": ["popular", "openai", "reasoning"],
+    "pro": true
+  },
+  {
+    "label": "o1",
+    "value": "A-O1",
+    "caption": "The first version of reasoning models from OpenAI",
+    "reasoningModel": true,
+    "categories": ["popular", "openai", "reasoning"],
+    "pro": true
+  },
+  {
+    "label": "GPT-4o",
+    "value": "A-GPT4O",
+    "caption": "GPT-4o model from OpenAI",
+    "categories": ["popular", "openai"]
+  },
+  {
+    "label": "Claude 3.5 Sonnet",
+    "value": "A-SONNET3.5",
+    "caption": "Claude 3.5 Sonnet model from Anthropic",
+    "categories": ["popular", "anthropic"]
+  },
+  {
+    "label": "Veo 3.1 Fast",
+    "value": "A-VEO-3-FAST",
+    "caption": "The most powerful video generation model with sound from Google",
+    "videoModel": true,
+    "categories": ["popular", "google", "video"],
+    "pro": true
+  },
+  {
+    "label": "Veo 3.1",
+    "value": "A-VEO-3",
+    "caption": "Strongest video generation model from Google (Experimental)",
+    "videoModel": true,
+    "categories": ["google", "video"],
+    "pro": true
+  },
+  {
+    "label": "Hunyuan",
+    "value": "A-HUNYUAN",
+    "caption": "Suitable for video generation from Tencent Company",
+    "videoModel": true,
+    "categories": ["popular", "tencent", "video"],
+    "pro": true
+  },
+  {
+    "label": "Kling v1.6 standard",
+    "value": "A-KLING-V1-6-STD",
+    "caption": "Suitable for video generation",
+    "videoModel": true,
+    "categories": ["video"],
+    "pro": true
+  },
+  {
+    "label": "Kling v2.5 Turbo",
+    "value": "A-KLING-V2-5-TURBO-STD",
+    "caption": "The newest video generation model from Kling",
+    "videoModel": true,
+    "categories": ["popular", "video"],
+    "pro": true
+  },
+  {
+    "label": "Kling v2.1 standard",
+    "value": "A-KLING-V2-1-STD",
+    "caption": "Suitable for video generation",
+    "videoModel": true,
+    "categories": ["video"],
+    "pro": true
+  },
+  {
+    "label": "Suno Music",
+    "value": "A-SUNO",
+    "caption": "Music creation with cover art and lyrics",
+    "supportsImage": false,
+    "musicModel": true,
+    "categories": ["creative", "music"],
+    "pro": true
+  },
+  {
+    "label": "o3-mini",
+    "value": "A-O3-MINI",
+    "caption": "Lightweight reasoning model from OpenAI",
+    "supportsImage": false,
+    "reasoningModel": true,
+    "categories": ["popular", "openai", "reasoning"]
+  },
+  {
+    "label": "o3-mini-high",
+    "value": "A-O3-MINI-HIGH",
+    "caption": "o3-mini model with more reasoning from OpenAI",
+    "supportsImage": false,
+    "reasoningModel": true,
+    "categories": ["popular", "openai", "reasoning"]
+  },
+  {
+    "label": "GPT-4 Turbo",
+    "value": "A-GPT4",
+    "caption": "Official GPT-4 model from OpenAI",
+    "categories": ["popular", "openai"]
+  },
+  {
+    "label": "GPT-3.5",
+    "value": "A-GPT3.5",
+    "caption": "Official GPT-3.5 model from OpenAI",
+    "categories": ["popular", "openai"]
+  },
+  {
+    "label": "Claude Haiku",
+    "value": "A-HAIKU",
+    "caption": "Haiku model from Anthropic",
+    "categories": ["popular", "anthropic"]
+  },
+  {
+    "label": "Claude Sonnet",
+    "value": "A-SONNET",
+    "caption": "Sonnet model from Anthropic",
+    "categories": ["popular", "anthropic"]
+  },
+  {
+    "label": "GPT-4o",
+    "value": "GPT4O",
+    "caption": "The newest GPT model from OpenAI",
+    "categories": ["popular", "openai"]
+  },
+  {
+    "label": "GPT-4 Turbo",
+    "value": "GPT4",
+    "caption": "Official GPT-4 model from OpenAI",
+    "categories": ["popular", "openai"]
+  },
+  {
+    "label": "GPT-4 Vision",
+    "value": "GPT4V",
+    "caption": "Image analysis",
+    "categories": ["popular", "openai"]
+  },
+  {
+    "label": "Gemini",
+    "value": "GEMINI",
+    "caption": "Gemini Pro 1.0 model from Google",
+    "categories": ["popular", "google"]
+  },
+  {
+    "label": "Claude Opus",
+    "value": "OPUS",
+    "caption": "Opus model from Anthropic",
+    "categories": ["popular", "anthropic"]
+  },
+  {
+    "label": "Claude Sonnet",
+    "value": "SONNET",
+    "caption": "Sonnet model from Anthropic",
+    "categories": ["popular", "anthropic"]
+  },
+  {
+    "label": "Claude Haiku",
+    "value": "HAIKU",
+    "caption": "Haiku model from Anthropic",
+    "categories": ["popular", "anthropic"]
+  },
+  {
+    "label": "GPT-4 LM",
+    "value": "GAPGPT",
+    "caption": "Optimized for memory and accuracy",
+    "categories": ["popular", "openai"]
+  },
+  {
+    "label": "GPT-3.5",
+    "value": "GPT3.5",
+    "caption": "Official GPT-3.5 model from OpenAI",
+    "categories": ["popular", "openai"]
+  },
+  {
+    "label": "Gemini 1.5 pro",
+    "value": "A-GEMINI1.5PRO",
+    "caption": "Gemini Pro 1.5 model from Google",
+    "categories": ["popular", "google"]
+  },
+  {
+    "label": "Gemini 1.5 flash",
+    "value": "A-GEMINI-1.5-FLASH",
+    "caption": "Gemini Flash 1.5 model from Google",
+    "categories": ["popular", "google"]
+  }
+]
