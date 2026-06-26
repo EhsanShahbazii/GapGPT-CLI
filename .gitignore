@@ -1,0 +1,19 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.venv/
+venv/
+build/
+dist/
+*.log
+
+# Local GapGPT credentials and chat history live under ~/.gapcode, but keep
+# accidental local copies out of the repository too.
+.gapcode/
+token
+config.json
+chats.json
